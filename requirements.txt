@@ -1,0 +1,7 @@
+# Use Python 3.11–3.12 (setup script pins 3.12).
+confluent-kafka==2.8.0
+pyspark==3.5.5
+duckdb==1.2.1
+delta-spark==3.3.0
+pandas==2.2.3
+pyarrow==19.0.1
