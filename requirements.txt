@@ -4,4 +4,4 @@ pyspark==3.5.5
 duckdb==1.2.1
 delta-spark==3.3.0
 pandas==2.2.3
-pyarrow==19.0.1
+pyarrow==23.0.1
